@@ -49,12 +49,12 @@ available, a buyer making an offer, and the owner accepting the offer. 
 
 Duration and Deployemnt
 -----------------------
-1 week(s)
+1 week(s) |
 Project should be deployed on Ethereum Ropsten Network.
 
 Project Needs
 -------------
-Ganache-cli
+Ganache-cli |
 Truffle Suite
  
  
